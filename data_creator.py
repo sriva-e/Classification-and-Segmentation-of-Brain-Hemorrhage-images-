@@ -26,7 +26,7 @@ import matplotlib.pyplot as plt
 FACTOR = 1
 SIZE = 512 // FACTOR
 
-PROJECT_ROOT = "/Users/sakshisuman12/Desktop/MATH7243_project/"
+PROJECT_ROOT = "/..input"
 RENDERS_FOLDER = PROJECT_ROOT + "/unzipped/XN_project/renders/"
 SEGMENTATION_LABEL_FOLDER = PROJECT_ROOT + "/unzipped/Hemorrhage Segmentation Project/"
 
